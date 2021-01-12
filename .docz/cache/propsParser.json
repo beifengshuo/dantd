@@ -1,0 +1,1 @@
+{"src\\empty-line\\EmptyLine.tsx":{"hash":"3f67cc9c39435ac26638337ba9fb60c5","props":[{"description":"","displayName":"EmptyLine","methods":[],"props":{"height":{"defaultValue":{"value":20},"description":"","name":"height","parent":{"fileName":"src/empty-line/EmptyLine.tsx","name":"IEmptyLineProps"},"required":false,"type":{"name":"number | undefined"}}}}]}}
